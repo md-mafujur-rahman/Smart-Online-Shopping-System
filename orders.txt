@@ -1,0 +1,4 @@
+Order ID: 1001
+Customer: MD. Mafujur Rahman
+Total: 60000.0
+Payment: Credit Card
